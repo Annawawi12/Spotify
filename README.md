@@ -1,6 +1,6 @@
 # installation via using Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/?template=https://github.com/Annawawi12Spotify)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/?template=https://github.com/Annawawi12/Spotify)
 
 
 # spotify telegram bio updater
